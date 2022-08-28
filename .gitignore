@@ -1,0 +1,7 @@
+.vim/plugged
+systemd/
+autostart/
+nvim/autoload
+nvim/pack
+nvim/plugged
+
